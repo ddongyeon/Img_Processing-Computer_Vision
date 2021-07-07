@@ -1,7 +1,7 @@
 # Img Processing & Computer Vision
 #### Img Processing & Computer Vision 관련 알고리즘 구현
 
-### 사용 환경
+### 개발 환경
 - Python
 - opencv python library
 
